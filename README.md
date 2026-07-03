@@ -6,38 +6,29 @@
     />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/be-braga/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/be-braga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bebraga12.github.io/portifolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
-  </a>
+  <a href="https://bebraga12.github.io/portifolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bebraga12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="mailto:bebraga12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
 ---
-
+ 
 # Technologies
-
+ 
 ## Main Stack
-
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </p>
-
 ---
-
+ 
 ## Back-End
-
+ 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
@@ -47,32 +38,30 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
-
 ---
-
+ 
 ## Front-End & Mobile
-
+ 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </p>
-
 ---
-
+ 
 ## Database
-
+ 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-
 ---
-
+ 
 ## DevOps / Cloud
-
+ 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -85,11 +74,10 @@
   <img src="https://img.shields.io/badge/VPS-555555?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VPS_Cluster-555555?style=for-the-badge"/>
 </p>
-
 ---
-
+ 
 ## AI & Tools
-
+ 
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Local_LLMs-0F9D58?style=for-the-badge"/>
@@ -98,12 +86,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
-
 ---
-
+ 
 # Featured Projects
-
+ 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:-----|
 | **Mutation AI Studio** | AI-powered platform for automatic JUnit test generation and improvement using JaCoCo and PIT Mutation Testing. | Java • Spring Boot • Angular • PostgreSQL | [Repository](https://github.com/Bebraga12/Mutation-AI-Studio) |
 | **AquaMark** | Desktop application for adding and editing watermarks in videos. | JavaFX | [Repository](https://github.com/Bebraga12/AquaMark) |
+ 
