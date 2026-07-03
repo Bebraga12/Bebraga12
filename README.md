@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/be-braga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/be-braga/" target="_blank" style="text-decoration:none;">
+    <img border="0" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bebraga12.github.io/portifolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <a href="https://bebraga12.github.io/portifolio" target="_blank" style="text-decoration:none;">
+    <img border="0" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bebraga12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:bebraga12@gmail.com" style="text-decoration:none;">
+    <img border="0" alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
